@@ -18,9 +18,6 @@ Ce projet de fin d'études a été réalisé dans le cadre d'un stage durant l'a
 3. **Fichier Excel :**
    - **Diagramme de Pareto :** Analyse des modes de défaillance pour identifier les priorités d'intervention en maintenance.
 
-4. **Références Techniques :**
-   - **Documentation :** Ensemble des documents techniques et normatifs utilisés pour soutenir l'analyse et les recommandations du projet.
-
 ## Auteurs
 - **[Oussama Mohamed Teyib](https://github.com/OussamaTeyib)**
 - **[El Bechir Sidi Sidiya](https://github.com/bechirsidiya)**
