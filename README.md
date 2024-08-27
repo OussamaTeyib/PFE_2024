@@ -21,9 +21,6 @@ Ce projet de fin d'études a été réalisé dans le cadre d'un stage durant l'a
 4. **Références Techniques :**
    - **Documentation :** Ensemble des documents techniques et normatifs utilisés pour soutenir l'analyse et les recommandations du projet.
 
-5. **Photos du Stage :**
-   - **Galerie :** Photos prises pendant le stage, illustrant les différents aspects de la maintenance des pelles hydrauliques et les interventions réalisées.
-
 ## Auteurs
 - **[Oussama Mohamed Teyib](https://github.com/OussamaTeyib)**
 - **[El Bechir Sidi Sidiya](https://github.com/bechirsidiya)**
