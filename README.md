@@ -19,9 +19,9 @@ Ce projet de fin d'études a été réalisé dans le cadre d'un stage durant l'a
    - **Diagramme de Pareto :** Analyse des modes de défaillance pour identifier les priorités d'intervention en maintenance.
 
 ## Auteurs
-- **[Oussama Mohamed Teyib](https://github.com/OussamaTeyib)**
-- **[El Bechir Sidi Sidiya](https://github.com/bechirsidiya)**
-- **Mohamedou Ahmed Kleib**
+- **[Oussama Teyib](https://github.com/OussamaTeyib)**
+- **[El Bechir Sidiya](https://github.com/bechirsidiya)**
+- **Mohamedou Kleib**
 
 Supervision par :
 - **M. Cheikh Kaber Bouhamadi** – ISET
