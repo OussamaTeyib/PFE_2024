@@ -1,9 +1,11 @@
 # Amélioration de la Maintenance des Pelles Hydrauliques (Pelle Standard ZX330-3)
 
 ## Aperçu du Projet
+
 Ce projet de fin d'études a été réalisé dans le cadre d'un stage durant l'année académique 2023-2024 à l'*Institut Supérieur d’Enseignement Technologique de Rosso* (ISET), en partenariat avec la *Société Nationale des Aménagements Agricoles et des Travaux* (SNAAT). Il se concentre sur l'amélioration des stratégies de maintenance des pelles hydrauliques, avec un accent particulier sur le modèle ZX330-3 de Hitachi.
 
 ## Contenu du Dépôt
+
 1. **Mémoire de fin d'études :**
    - **Introduction :** Vue d'ensemble des objectifs et de la structure du mémoire.
    - **Chapitre 1 : Présentation de l’Entreprise :** Introduction à la SNAAT et ses activités.
@@ -19,8 +21,9 @@ Ce projet de fin d'études a été réalisé dans le cadre d'un stage durant l'a
    - **Diagramme de Pareto :** Analyse des modes de défaillance pour identifier les priorités d'intervention en maintenance.
 
 ## Auteurs
-- **[Oussama Teyib](https://github.com/OussamaTeyib)**
-- **[El Bechir Sidiya](https://github.com/bechirsidiya)**
+
+- **[Oussama Teyib](https://orcid.org/0009-0008-0248-1545)**
+- **El Bechir Sidiya**
 - **Mohamedou Kleib**
 
 Supervision par :
@@ -28,7 +31,11 @@ Supervision par :
 - **M. Abou Diallo** – SNAAT
 
 ## Licence
-Ce projet est distribué sous la [Licence MIT](LICENSE). Vous êtes libre d'utiliser, de modifier et de partager ce contenu en créditant les auteurs.
+
+Ce projet est sous [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).  
+Vous êtes libre de partager et d’adapter ce travail, à condition de créditer correctement les auteurs.
 
 ## Remerciements
-Nous exprimons notre gratitude envers l'équipe pédagogique de l'ISET, notamment le *Département de Génie Électromécanique*, ainsi qu'à nos encadrants pour leur soutien. Un grand merci également à la SNAAT pour leur collaboration technique.
+
+Nous exprimons notre gratitude envers l'équipe pédagogique de l'ISET, notamment le *Département de Génie Électromécanique*, ainsi qu'à nos encadrants pour leur soutien.
+Un grand merci également à la SNAAT pour leur collaboration technique.
